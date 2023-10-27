@@ -1,3 +1,1 @@
-vless://216b80ca-9dcb-4ba8-b0c6-4dd6340b2ea7@mohammadreza.link:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#VIP_MAMAD(S1)
-vless://216b80ca-9dcb-4ba8-b0c6-4dd6340b2ea7@mohammadreza.link:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#VIP_MAMAD(S2)
-vless://216b80ca-9dcb-4ba8-b0c6-4dd6340b2ea7@mohammadreza.link:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#VIP_MAMAD%28S3%29
+vless://216b80ca-9dcb-4ba8-b0c6-4dd6340b2ea7@mohammadreza.link:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#VIP_MAMAD🇩🇪
