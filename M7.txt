@@ -1,1 +1,1 @@
-vless://59034cc6-88c2-4e12-9570-015bb36ccd99@104.21.19.124:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#VIP_MAMAD✓
+vless://59034cc6-88c2-4e12-9570-015bb36ccd99@104.16.82.150:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#VIP_MAMAD✓
