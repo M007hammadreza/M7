@@ -7,3 +7,4 @@ vless://59034cc6-88c2-4e12-9570-015bb36ccd99@mohammadreza.link:443?path=%2F%3Fed
 vless://59034cc6-88c2-4e12-9570-015bb36ccd99@mtn.mohammadreza.link:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#a
 vless://59034cc6-88c2-4e12-9570-015bb36ccd99@104.21.19.124:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#c
 vless://59034cc6-88c2-4e12-9570-015bb36ccd99@172.67.186.42:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#d
+vless://59034cc6-88c2-4e12-9570-015bb36ccd99@172.67.186.42:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#e
