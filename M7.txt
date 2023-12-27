@@ -22,3 +22,5 @@ vless://7eeab2c7-a2fa-488f-87b3-91bc5691d939@188.114.98.224:2083?path=%2F%3Fed%3
 
 
 vless://7eeab2c7-a2fa-488f-87b3-91bc5691d939@104.24.185.137:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#VIP+%28South+Korea+%F0%9F%87%B0%F0%9F%87%B7+%29
+
+vless://7eeab2c7-a2fa-488f-87b3-91bc5691d939@172.67.186.42:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=mohammadreza.link&fp=chrome&type=ws&sni=mohammadreza.link#VIP+%28South+Korea+%F0%9F%87%B0%F0%9F%87%B7+%29
