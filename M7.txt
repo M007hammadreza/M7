@@ -824,4 +824,4 @@ vless://7eeab2c7-a2fa-488f-87b3-91bc5691d939@45.14.174.15:443?path=%2F%3Fed%3D20
 vless://7eeab2c7-a2fa-488f-87b3-91bc5691d939@172.67.186.42:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=m7hammadreza.m007hammadreza.workers.dev&fp=chrome&type=ws&sni=m7hammadreza.m007hammadreza.workers.dev#VIP+%28%F0%9F%87%B9%F0%9F%87%B7%29
 
 
-vless://7eeab2c7-a2fa-488f-87b3-91bc5691d939@172.67.186.42:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=m7hammadreza.m007hammadreza.workers.dev&fp=chrome&type=ws&sni=m7hammadreza.m007hammadreza.workers.dev#VIP+%28%F0%9F%87%B9%F0%9F%87%B7%29
+vless://7eeab2c7-a2fa-488f-87b3-91bc5691d939@172.67.186.42:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=m7hammadreza.m007hammadreza.workers.dev&fp=chrome&type=ws&sni=m7hammadreza.m007hammadreza.workers.devvvvvvvvvvvvvvv#VIP+%28%F0%9F%87%B9%F0%9F%87%B7%29
